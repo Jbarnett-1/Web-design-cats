@@ -1,2 +1,3 @@
 # Web-design-cats
-Responsive Web Design practice with designs
+Going through the FreeCodeCamp Responsive Web Design certification practice with designs 
+
